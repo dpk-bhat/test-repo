@@ -22,6 +22,12 @@ something
 ## Solution Diagram
 [<img src="./images/858599.jpg" width="600" />](./images/858599.jpg?raw=true)
 
+## Mission Type 
+Enterprise Support
+
+## Sub-category
+SAP S/4HANA Transformation
+
 
 Deafault Things:
 
@@ -41,4 +47,9 @@ Things to put in metaData or comments
 [comment]: <> (This is a comment, it will not be included.)
 [//]: <> (This is also a comment.)
 [//]: # (This may be the most platform independent comment)
-<!-- This is also a comment -->
+<!-- useCaseMetadata 
+{
+  Mission Type: "Enterprise Support"
+  Sub-category: "SAP S/4HANA Transformation"
+}
+-->
