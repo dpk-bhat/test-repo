@@ -1,4 +1,3 @@
-# Use Case Title Goes with heading depth 1
 
 1st paragraph after use case title will go into the use case description. Anymore all the headings will be mapped to some of the json fields.
 
