@@ -2,7 +2,7 @@
 
 1st paragraph after use case title will go into the use case description. Anymore all the headings will be mapped to some of the json fields.
 
-## Benifits
+## Benefits
 something
 
 ## Pain Points
