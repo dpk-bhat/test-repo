@@ -25,7 +25,7 @@ something
 ## Mission Type 
 Enterprise Support
 
-## Sub-category
+## Subcategory
 SAP S/4HANA Transformation
 
 
