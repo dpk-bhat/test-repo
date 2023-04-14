@@ -11,6 +11,12 @@ something
 ## Journeys
 something
 
+## Mission Type 
+Enterprise Support
+
+## Subcategory
+SAP S/4HANA Transformation
+
 ## Services
 
 | Service       | Optional      |
@@ -21,13 +27,6 @@ something
 
 ## Solution Diagram
 [<img src="./images/858599.jpg" width="600" />](./images/858599.jpg?raw=true)
-
-## Mission Type 
-Enterprise Support
-
-## Subcategory
-SAP S/4HANA Transformation
-
 
 Deafault Things:
 
