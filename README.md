@@ -2,7 +2,7 @@
 
 Paragraph under the title is use case desctription 
 
-## Use Case Description ReadMore Link (!url)[https://github.com/dpk-bhat/test-repo/edit/main/README.md]
+##(Read More..)[https://github.com/dpk-bhat/test-repo/edit/main/README.md]
 
 ## Additional Context
 Additional Context
