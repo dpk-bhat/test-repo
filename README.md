@@ -1,21 +1,20 @@
 # Use Case Title
 
-1st paragraph after use case title will go into the use case description. Anymore all the headings will be mapped to some of the json fields.
+Paragraph under the title is use case desctription 
 
-## Benefits
-something
+## Use Case Description ReadMore Link (!url)[https://github.com/dpk-bhat/test-repo/edit/main/README.md]
 
-## Pain Points
-something
+## Additional Context
+Additional Context
 
-## Journeys
-something
+## Challenges and Business Drivers
+Challenges and Business Drivers
 
-## Mission Type 
-Enterprise Support
+## Solution
+Solution
 
-## Subcategory
-SAP S/4HANA Transformation
+## Benifts
+Benifits
 
 ## Services
 
