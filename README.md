@@ -13,8 +13,8 @@ Challenges and Business Drivers
 ### Solution
 Solution
 
-### Benifts
-Benifits
+### Benefts
+Benefits
 
 ## Services
 
