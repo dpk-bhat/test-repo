@@ -10,10 +10,10 @@ Additional Context
 ### Challenges and Business Drivers
 Challenges and Business Drivers
 
-### Solution
+### Solutions
 Solution
 
-### Benefts
+### Benefits
 Benefits
 
 ## Services
