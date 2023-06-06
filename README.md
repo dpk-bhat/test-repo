@@ -39,7 +39,7 @@ Additional Comments
 Use Case based on a Dedicated PoC
 
 ### Deployment Effort
-2-4 days
+30-80 days
 
 ### Competitive Differentiation
 Low
