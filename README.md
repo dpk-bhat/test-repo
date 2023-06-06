@@ -64,9 +64,9 @@ Key Accounts
 - [How to clear an interview?](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
 ## FAQs
--    - Question1
+1.   - Question1
      - Answer1
--    - Question2
+2.   - Question2
      - Answer2
 
 ## Solution Diagram
