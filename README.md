@@ -55,7 +55,7 @@ Key Accounts
 
 ## External Information
 
-### Misson Effort
+### Missoin Effort
 2-4 days
 
 ## Solution Diagram
