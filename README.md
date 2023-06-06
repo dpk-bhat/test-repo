@@ -20,8 +20,8 @@ Benefits
 
 | Service       | Optional      |
 | ------------- |:-------------:|
-| ICEA Demo     |  |
-| SAP Analytics Cloud|  |
+| SAP BTP, ABAP environment     |  |
+| Azure Machine Learning| optional |
 | SAP Audit Log Service| optional |
 
 ## Solution Diagram
