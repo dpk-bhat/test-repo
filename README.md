@@ -53,6 +53,10 @@ Active
 ### Customer Segment
 Key Accounts
 
+## External Informoation
+
+### Misson Effort
+2-4 days
 
 ## Solution Diagram
 [<img src="./images/858599.jpg" width="600" />](./images/858599.jpg?raw=true)
