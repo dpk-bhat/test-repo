@@ -58,6 +58,9 @@ Key Accounts
 ### Mission Effort
 2-4 days
 
+### Mission Prerequisites
+Mission Prerequisites
+
 ## Guided Answers
 - [How to get it done?](https://xs02a6fd67e86.hana.ondemand.com/JobPts/Mobile/DareMat.html#home_screen)
 - [Proton Mail](https://account.protonmail.com/authorize?app=proton-mail&state=ECA6uo6o7PjvYmg9i_In5QhPAsF1zv0gbD9UFnBfm7c)
