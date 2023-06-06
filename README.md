@@ -24,6 +24,24 @@ Benefits
 | Azure Machine Learning| optional |
 | SAP Audit Log Service| optional |
 
+## Internal Information
+### Business Questions
+Business Questions
+
+### Technical Questions
+Technical Questions
+
+### Additional Comments
+Additional Comments
+
+> - Maturity Level: Use Case based on a Dedicated PoC
+> - Deployment Effort: 30-80 days
+> - Competitive Differentiation: Low
+> - Buyer Persona: Chief Customer Officer, Maintenance Director
+> - Customer Type: Active
+> - Customer Segment: Key Accounts
+
+
 ## Solution Diagram
 [<img src="./images/858599.jpg" width="600" />](./images/858599.jpg?raw=true)
 
