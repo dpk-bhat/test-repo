@@ -34,6 +34,7 @@ Technical Questions
 ### Additional Comments
 Additional Comments
 
+### Other Fields
 > - Maturity Level: Use Case based on a Dedicated PoC
 > - Deployment Effort: 30-80 days
 > - Competitive Differentiation: Low
