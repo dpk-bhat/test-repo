@@ -53,7 +53,7 @@ Active
 ### Customer Segment
 Key Accounts
 
-## External Informoation
+## External Information
 
 ### Misson Effort
 2-4 days
