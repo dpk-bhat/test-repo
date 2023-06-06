@@ -58,7 +58,7 @@ Key Accounts
 ### Mission Effort
 2-4 days
 
-## Guided Answer
+## Guided Answers
 - [How to get it done?](https://xs02a6fd67e86.hana.ondemand.com/JobPts/Mobile/DareMat.html#home_screen)
 - [Proton Mail](https://account.protonmail.com/authorize?app=proton-mail&state=ECA6uo6o7PjvYmg9i_In5QhPAsF1zv0gbD9UFnBfm7c)
 - [How to clear an interview?](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
