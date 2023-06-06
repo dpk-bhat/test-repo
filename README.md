@@ -63,6 +63,12 @@ Key Accounts
 - [Proton Mail](https://account.protonmail.com/authorize?app=proton-mail&state=ECA6uo6o7PjvYmg9i_In5QhPAsF1zv0gbD9UFnBfm7c)
 - [How to clear an interview?](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
+## FAQs
+-    - Question1
+     - Answer1
+-    - Question2
+     - Answer2
+
 ## Solution Diagram
 [<img src="./images/858599.jpg" width="600" />](./images/858599.jpg?raw=true)
 
