@@ -20,9 +20,9 @@ Benefits
 
 | Service       | Optional      |
 | ------------- |:-------------:|
-| Name1         |  |
-| col 2 is      |  |
-| zebra stripes |  |
+| ICEA Demo     |  |
+| SAP Analytics Cloud|  |
+| SAP Audit Log Service| optional |
 
 ## Solution Diagram
 [<img src="./images/858599.jpg" width="600" />](./images/858599.jpg?raw=true)
