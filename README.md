@@ -13,6 +13,10 @@ Challenges and Business Drivers
 ### Solutions
 Solution
 
+### Benefits
+Benefits
+
+
 ## Internal Information
 ### Business Questions
 Business Questions
@@ -40,10 +44,6 @@ Active
 
 ### Customer Segment
 Key Accounts
-
-
-### Benefits
-Benefits
 
 ## Services
 
