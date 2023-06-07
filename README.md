@@ -16,6 +16,17 @@ Solution
 ### Benefits
 Benefits
 
+## General Information
+|Fields|Values|
+|---|---|
+|Source|Customer Engagement Executives, Customer Innovation and Maintenance|
+|SAP Process|Design to Operate > Acquire to Decommission|
+|Product Category|Accounting and Financial Close, Business Technology Platform, CRM and Customer Experience|
+|Industries|Consumer Industries, Defense and Security, Life Sciences|
+|Lines of Business|(Industry specific LoB), Human Resources|
+|Focus Topics|Artificial Intelligence, Featured|
+|Tags|uc-tag, focusTopic|
+
 
 ## Internal Information
 ### Business Questions
