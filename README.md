@@ -13,17 +13,6 @@ Challenges and Business Drivers
 ### Solutions
 Solution
 
-### Benefits
-Benefits
-
-## Services
-
-| Service       | Optional      |
-| ------------- |:-------------:|
-| SAP BTP, ABAP environment     |  |
-| Azure Machine Learning| optional |
-| SAP Audit Log Service| optional |
-
 ## Internal Information
 ### Business Questions
 Business Questions
@@ -35,7 +24,6 @@ Technical Questions
 Additional Comments
 
 ### Maturity Level
-
 Use Case based on a Dedicated PoC
 
 ### Deployment Effort
@@ -52,6 +40,18 @@ Active
 
 ### Customer Segment
 Key Accounts
+
+
+### Benefits
+Benefits
+
+## Services
+
+| Service       | Optional      |
+| ------------- |:-------------:|
+| SAP BTP, ABAP environment     |  |
+| Azure Machine Learning| optional |
+| SAP Audit Log Service| optional |
 
 ## External Information
 
