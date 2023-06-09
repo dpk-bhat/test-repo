@@ -1,20 +1,21 @@
-# Test Akash
+# Develop a Multitenant Extension Application in SAP BTP, Kyma Runtime
 
 ## Description
-Paragraph under the title is use case desctription 
+The business scenario of this tutorial has been created with the partner as focus persona. The purpose of this project is to help SAP partners to get a quick start on developing multitenant applications and provide best practices. This is, of course, not exclusively for SAP partners and can be very useful for every person looking for details on how to build a multitenant extension application running on Kyma. It is suitable for new or experienced developers on SAP Business Technology Platform.
+
 [Read More..](https://github.com/dpk-bhat/test-repo/edit/main/README.md)
 
 ### Additional Context
-Additional Context
+Part of the SAP partners ecosystem is built on multitenant applications based on SAP BTP, Kyma runtime. The goal of these applications is to extend the functionality of the SAP solutions, such as SAP S/4HANA Cloud, and to solve customers&#8217; specific business requirements.
 
 ### Challenges and Business Drivers
-Challenges and Business Drivers
+Part of the SAP partners ecosystem is built on multitenant applications based on SAP BTP, Kyma runtime. The goal of these applications is to extend the functionality of the SAP solutions, such as SAP S/4HANA Cloud, and to solve customers&#8217; specific business requirements.
 
 ### Solutions
-Solution
+The current mission offers not only expert coaching and technical support, but also trying out a free project, showing best practices that you can use later on to accelerate your outcome.
 
 ### Benefits
-Benefits
+To understand the multitenancy concept better, you can try out a specific multitenant sample application that extends SAP S/4HANA functionality. You can also learn the different steps to onboard new customers.
 
 ## General Information
 |Fields|Values|
@@ -60,9 +61,10 @@ Key Accounts
 
 | Service       | Optional      |
 | ------------- |:-------------:|
-| SAP BTP, ABAP environment     |  |
-| Azure Machine Learning| optional |
-| SAP Audit Log Service| optional |
+| SAP S/4HANA Cloud for customer order foundation| optional  |
+| SAP BTP, Kyma Runtime|  |
+| SAP HANA Cloud| optional |
+| Destination | |
 
 ## External Information
 
