@@ -1,4 +1,4 @@
-# Use Case Title
+# Use Case Imported from Git
 
 ## Description
 Paragraph under the title is use case desctription 
