@@ -63,7 +63,7 @@ Key Accounts
 | SAP S/4HANA Cloud for customer order foundation| optional  |
 | SAP BTP, Kyma Runtime|  |
 | SAP HANA Cloud| optional |
-| Destination | |
+| Some Service | |
 
 ## External Information
 
