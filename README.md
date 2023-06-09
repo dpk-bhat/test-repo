@@ -2,6 +2,7 @@
 
 ## Description
 The business scenario of this tutorial has been created with the partner as focus persona. The purpose of this project is to help SAP partners to get a quick start on developing multitenant applications and provide best practices. This is, of course, not exclusively for SAP partners and can be very useful for every person looking for details on how to build a multitenant extension application running on Kyma. It is suitable for new or experienced developers on SAP Business Technology Platform.
+
 [Read More..](https://github.com/dpk-bhat/test-repo/edit/main/README.md)
 
 ### Additional Context
