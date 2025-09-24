@@ -15,6 +15,7 @@ The current mission offers not only expert coaching and technical support, but a
 
 ### Benefits
 To understand the multitenancy concept better, you can try out a specific multitenant sample application that extends SAP S/4HANA functionality. You can also learn the different steps to onboard new customers.
+Adding other benefits here.
 
 ## General Information
 |Fields|Values|
