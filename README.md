@@ -12,6 +12,7 @@ Part of the SAP partners ecosystem is built on multitenant applications based on
 
 ### Solutions
 The current mission offers not only expert coaching and technical support, but also trying out a free project, showing best practices that you can use later on to accelerate your outcome.
+Adding other solutions here
 
 ### Benefits
 To understand the multitenancy concept better, you can try out a specific multitenant sample application that extends SAP S/4HANA functionality. You can also learn the different steps to onboard new customers.
